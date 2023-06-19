@@ -3,8 +3,6 @@ using Logic.Implementations;
 using Logic.Intefaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
-using Repository.Implementations;
-using Repository.Interfaces;
 using Security.Implementations;
 using Security.Interfaces;
 using System.Text;
